@@ -1,5 +1,7 @@
 # Contributors
 
+-[@kmihaly](https://github.com/kmihaly/)
+
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
 
 -[@lfidelino](https://github.com/lfidelino)
@@ -1807,3 +1809,4 @@
 -[@hmahajan99](https://github.com/hmahajan99)
 
 -[@antonykidis](https://github.com/antonykidis)
+
